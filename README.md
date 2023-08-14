@@ -1,4 +1,4 @@
-# Generative adversarial networks GAN-
+# Generative adversarial networks GAN
 
 **Abstract**
  
